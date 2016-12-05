@@ -1,4 +1,2 @@
-# hello-world
-first repository
-
-This is a modification to test commit!
+Progress on w3schools on 12/05:
+JS Arithmetric
